@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 435d8389-85b6-47ad-801c-6b3cbb45f8ca
+
+localResources:
+  collections:
+    - ../Code Files/AI_FAQ_Assistant_API.postman_collection.json
